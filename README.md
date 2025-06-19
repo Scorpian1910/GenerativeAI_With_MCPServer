@@ -123,10 +123,6 @@ Follow these steps to get the application up and running on your local machine.
 
 Contributions are welcome!  Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ## ⭐️ Show your support
 
 Give a ⭐️ if this project helped you!
